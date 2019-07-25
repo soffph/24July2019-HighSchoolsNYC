@@ -1,0 +1,18 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c8a1c3e10d81ff77b6e2f99415fe11bd"
+build_time: [1564035107, 452718000]
+inputs:
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/Models/HighSchoolNYC.swift": [1564024647, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/ViewController.swift": [1563988618, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/Network/Endpoint.swift": [1564024265, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/Schools Catalogue/HighSchoolsCatalogueViewController.swift": [1564035107, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/SchoolDetail/DetailProtocols.swift": [1564024012, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/SchoolDetail/SchoolDetailCells/LocationTableViewCell.swift": [1564026872, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/SchoolDetail/SchoolDetailCells/SaTTableViewCell.swift": [1564026872, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/SchoolDetail/DetailPresenter.swift": [1564028885, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/Schools Catalogue/SchoolsCatalogueCell/TableViewCell.swift": [1564010525, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/Schools Catalogue/SchoolsCatalogueCell/HighSchoolsProtocols.swift": [1564005272, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/Schools Catalogue/HighSchoolsCataloguePresenter.swift": [1564026425, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/SchoolDetail/DetailViewController.swift": [1564028486, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/Network/Network.swift": [1564024425, 0]
+  "/Users/sofiadelgadogonzalez/Desktop/24July2019SofiaCodingChallenge/24July2019SofiaCodingChallenge/AppDelegate.swift": [1563988618, 0]
