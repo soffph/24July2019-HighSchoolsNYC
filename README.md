@@ -42,4 +42,5 @@ Use Swift as the primary language. Combination of Swift and Objective would be g
 
 
 #Screens
-![Screenshot](Screen%20Shot%202019-07-24%20at%2011.34.19%20PM.png)
+![Screenshot Main](Screen%20Shot%202019-07-24%20at%2011.34.30%20PM.png)
+![Screenshot Detail](Screen%20Shot%202019-07-24%20at%2011.34.19%20PM.png)
